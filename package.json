@@ -1,0 +1,31 @@
+{
+  "name": "fell-backend",
+  "version": "1.0.0",
+  "description": "bai hoc web ",
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "homepage": "https://github.com/duchoangvnm/Base-website-backend#readme",
+  "bugs": {
+    "url": "https://github.com/duchoangvnm/Base-website-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duchoangvnm/Base-website-backend.git"
+  },
+  "license": "ISC",
+  "author": "duchoang",
+  "type": "commonjs",
+  "main": "app.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
